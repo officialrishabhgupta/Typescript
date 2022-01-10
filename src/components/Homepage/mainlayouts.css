@@ -1,0 +1,18 @@
+.layout{
+    background-color: black;
+}
+.layout li {
+    color: black;
+}
+.layout li a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.layouts{
+    display: flex;
+    margin-left: 60%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
