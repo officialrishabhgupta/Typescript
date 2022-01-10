@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Typescript.github.io/static/css/main.bb93dbca.css",
+    "main.js": "/Typescript.github.io/static/js/main.8613aead.js",
+    "static/js/787.cc6672a2.chunk.js": "/Typescript.github.io/static/js/787.cc6672a2.chunk.js",
+    "index.html": "/Typescript.github.io/index.html",
+    "main.bb93dbca.css.map": "/Typescript.github.io/static/css/main.bb93dbca.css.map",
+    "main.8613aead.js.map": "/Typescript.github.io/static/js/main.8613aead.js.map",
+    "787.cc6672a2.chunk.js.map": "/Typescript.github.io/static/js/787.cc6672a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb93dbca.css",
+    "static/js/main.8613aead.js"
+  ]
+}
